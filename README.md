@@ -20,8 +20,6 @@ pip install python-Levenshtein
 
 ### Usage
 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
-
 ```bash
 python levenshtein.py -h
 ```
